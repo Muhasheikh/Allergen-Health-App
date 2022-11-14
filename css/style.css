@@ -62,12 +62,12 @@ body {
 }
 
 .custom_heading {
-  text-align: center;
+  text-align: left;
   font-weight: bold;
 }
 
 .custom_heading-text {
-  text-align: center;
+  text-align: left;
 }
 
 
@@ -501,17 +501,5 @@ a:focus {
   color: #191818;
 }
 
-/* end footer section*/
 
-/* ----------------------------- */
-/*Asram changes */
-#more {display: none;}
-#more1 {display: none;}
-#more2 {display: none;}
-#more3 {display: none;}
-#more4 {display: none;}
-
-.b li{
-  font-weight: bold;
-}
 
